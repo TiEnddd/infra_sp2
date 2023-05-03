@@ -1,0 +1,6 @@
+[submodule "infra_sp2"]
+	path = infra_sp2
+	url = https://github.com/TiEnddd/infra_sp2.git
+[submodule "Submodules/TiEnddd"]
+	path = Submodules/TiEnddd
+	url = https://github.com/TiEnddd/api_yamdb.git
